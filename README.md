@@ -33,18 +33,18 @@ Built with a sleek, modern interface featuring an interactive 3D background crea
 ## Installation and Setup
 
 # Clone the repository
-git clone https://github.com/yourusername/devanagari-recognition.git
-cd devanagari-recognition
+- git clone https://github.com/yourusername/devanagari-recognition.git
+- cd devanagari-recognition
 
 # Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+- python -m venv venv
+- source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # Run the application
-python app.py
+- #python app.py
 
 ## Demo
 ![view](https://github.com/user-attachments/assets/29b843dc-23df-4f1c-a9e1-ea81d685e318)
