@@ -88,7 +88,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgments
 
-- The dataset used was from Kaggle (https://www.kaggle.com/datasets/rishianand/devanagari-character-set?resource=download&SSORegistrationToken=CfDJ8NaUH7gUrDtFgwt-2-W4oQCheFCHqXaFE1jiro78Buqcnu7tlwJUyX7UqsOd--7s8Vof6Sks5gLy-og62Nr3E_OsQZPXez6Ly0C_Ek7EV5Hl6Mt2Vko_UyjnStgXrFRnQf4KMM9PWC9k4pn4YXA1SqgsA3plvDdudqrok-sBx6BF-FM0Nr6irtFoOrecGecmFSamJcBPVRSXtfU0MZoqSUpOy5S9cgCHQL3zMnH-tPplhT6Tav7MH6fzqHpIqLDbmoL3trfpf3sB5cG5Gmy4qe83AnNTsG6BwMINRmMkWbkj2qKCioSNu3tPUwELe8yM0BwXEp_GKs00vZ76iIuCfY9vLIyLjzbx3Zo3&DisplayName=Shivam%20Aralikatti)
+- The dataset used was from Kaggle (https://www.kaggle.com/datasets/rishianand/devanagari-character-set)
 - Spline for the interactive 3D background capabilities
 - The open-source community for various libraries and tools used in this project
 
